@@ -1,0 +1,22 @@
+<rubrica>
+  <contatto>
+    <titolo>Signora</titolo>
+    <nome>Maria</nome>
+    <cognome>Rossi</cognome>
+    <telefoni>
+      <cellulare>1234567890</cellulare>
+      <casa>0123456789</casa>
+      <ufficio>3456789012</ufficio>
+    </telefoni>
+  </contatto>
+  <contatto>
+    <titolo>Signor</titolo>
+    <nome>Marco</nome>
+    <cognome>Bianchi</cognome>
+    <telefoni>
+      <cellulare>3456789012</cellulare>
+      <casa>0123456789</casa>
+      <ufficio>1234567890</ufficio>
+    </telefoni>
+  </contatto>
+</rubrica>

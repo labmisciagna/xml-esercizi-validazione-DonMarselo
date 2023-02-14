@@ -1,0 +1,32 @@
+<squadra nome="ACME" serie="A">
+    <presidente>John Doe</presidente>
+    <allenatore>Mark Smith</allenatore>
+    <giocatori>
+      <giocatore titolare="true">
+        <nome>Mario Rossi</nome>
+        <ruoli>
+          <ruolo>Attaccante</ruolo>
+          <ruolo>Centrocampista</ruolo>
+        </ruoli>
+      </giocatore>
+      <giocatore titolare="false">
+        <nome>Luigi Bianchi</nome>
+        <ruoli>
+          <ruolo>Difensore</ruolo>
+        </ruoli>
+      </giocatore>
+      <giocatore titolare="true">
+        <nome>Giovanni Neri</nome>
+        <ruoli>
+          <ruolo>Portiere</ruolo>
+        </ruoli>
+      </giocatore>
+      <giocatore titolare="true">
+        <nome>Paolo Verdi</nome>
+        <ruoli>
+          <ruolo>Centrocampista</ruolo>
+          <ruolo>Terzino</ruolo>
+        </ruoli>
+      </giocatore>
+    </giocatori>
+  </squadra>
